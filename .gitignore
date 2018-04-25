@@ -1,0 +1,5 @@
+# nodejs
+node_modules/
+
+# project
+env.js
